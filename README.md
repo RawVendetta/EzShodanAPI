@@ -8,7 +8,7 @@ The script asks for search criteria, to find ip addresses of whatever criteria  
 ~just copy and paste :)<br>
 git clone https://github.com/RawVendetta/EzShodanAPI<br>
 cd ShodanAPI<br>
-*open add add your API key<br>
+*open add add your API key which is under a comment(#) at the beginning called #[!]Shodan API key: then the variable for your key. paste the key in between the commas. note, you will not be able to search without an api key, you will get in error.<br>
 python3 ShodanSearchv1-9.py<br>
 
 <h2>Notes:</h2>
