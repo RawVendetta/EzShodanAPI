@@ -5,7 +5,7 @@ The installing of the requirements is done by the script itself, so all you will
 
 <h3>Steps:</h3>
 ~just copy and paste :)<br>
-git clone https://github.com/RawVendetta/ShodanAPI<br>
+git clone https://github.com/RawVendetta/EzShodanAPI<br>
 cd ShodanAPI<br>
 *open add add your API key<br>
 python3 ShodanSearchv1-9.py<br>
