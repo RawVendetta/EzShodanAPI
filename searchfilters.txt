@@ -1,0 +1,7 @@
+os:<name of os>
+port:<port number of service>
+org:<orginization ip space>
+country:<country abrv. example US, EU, UK, SG>
+city:<city name>
+version:<version number>
+vuln:<cve id or vulnerability string>#pro account required
