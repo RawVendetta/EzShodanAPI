@@ -6,12 +6,12 @@ The script asks for search criteria, to find ip addresses of whatever criteria  
 <h4><u>Easy Setup!</u></h5><br>
 <h3>Steps:</h3>
 ~just copy and paste :)<br>
-git clone https://github.com/RawVendetta/EzShodanAPI<br>
-cd EzShodanAPI<br>
-cd ShodanAPI<br>
+`git clone https://github.com/RawVendetta/EzShodanAPI`<br>
+`cd EzShodanAPI`<br>
+`python3 ShodanSearchv2-0.py`<br>
 *open add add your API key which is under a comment(#) at the beginning called #[!]Shodan API key: then the variable for your key. paste the key in between the commas. note, you will not be able to search without an api key, you will get an error.<br>
-*note you can now just run the script as long as the community api key has queried left!
-python3 ShodanSearchv2-0.py<br>
+*note you can now just run the script as long as the community api key has queries left!<br>
+<br>
 
 <h2>Notes:</h2>
 <u>This is my first post onto github, feedback would be appriciated.<u>
